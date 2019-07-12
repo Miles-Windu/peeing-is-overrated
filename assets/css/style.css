@@ -1,0 +1,14 @@
+body {
+    background-image: url(../images/funky-lines/funky-lines.png);
+    background-color: rgb(242, 240, 222);
+}
+
+.landing {
+    color: rgb(255, 255, 255); 
+    height: 800px;
+    width: 100%;
+    background-image: url(../images/wedding-scenery.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
